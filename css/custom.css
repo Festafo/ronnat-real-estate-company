@@ -1,0 +1,952 @@
+#usericon {
+  font-size: 2vw;
+  color: #000;
+
+}
+
+#hero-area {
+  background-image: url(../images/fest/backgrd3.png);
+  background-size: cover;
+  height: 90vh;
+  width: 100%;
+}
+
+#landlord {
+  background-color: #efefef;
+  height: 90vh;
+  width: 100%;
+}
+
+/* #welco span {
+  position: absolute;
+  top: 200px;
+} */
+
+#secto {
+  background-image: url(../images/fest/loginimage.png);
+  background-size: cover;
+  height: 86vh;
+}
+
+#welco {
+  color: #fff;
+}
+
+#welcom {
+  font-size: 3.5vw;
+  color: #fff;
+  padding-top: 30px;
+  width: 100%;
+
+}
+
+.mobro {
+  padding-top: 200px;
+  padding-bottom: 200px;
+  background-image: url(../images/fest/loginimage.png);
+  background-size: cover;
+  height: 85vh;
+}
+
+.couper {
+  margin-left: 50px;
+
+}
+
+.offer {
+  margin-top: -100px;
+}
+
+.newspace {
+  padding-top: 75px;
+  padding-bottom: 50px;
+}
+
+#choose {
+  color: #ea0000;
+}
+
+.why {
+  background-color: #f5f7fb;
+}
+
+.selects {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+#one {
+  font-size: 20px;
+  padding: 10px 12px 10px 12px;
+  margin: 5px 5px 5px 0px;
+  background-color: #1da1f2;
+
+}
+
+
+
+#three {
+  font-size: 20px;
+  padding: 10px 12px 10px 12px;
+  margin: 5px 5px 5px 5px;
+  background-color: #e1306c;
+}
+
+#two {
+  background-color: #3b5998;
+  font-size: 20px;
+  padding: 10px 15px 10px 15px;
+  margin: 5px 5px 5px 5px;
+}
+
+#one, #two, #three:hover {
+  cursor: pointer;
+}
+
+.standard {
+  padding: 15px;
+  margin: 5px 5px 5px 0px;
+  font-size: 20px;
+}
+
+#mes {
+  background-color: #3b5998;
+  border-radius: 50%;
+  color: #fff;
+}
+
+#mes:hover {
+  cursor: pointer;
+}
+
+#mess {
+  background-color: #1da1f2;
+  border-radius: 50%;
+  color: #fff;
+}
+
+#mess:hover {
+  cursor: pointer;
+}
+
+.account {
+  width: 40vw;
+  font-weight: bold;
+  margin-left: 70px;
+  padding-left: 20px;
+  border: 1px solid #e1e1e1;
+  border-radius: 20px;
+}
+
+#messs {
+  background-color:#3b5998;
+  border-radius: 50%;
+  color: #fff;
+}
+
+#messs:hover {
+  cursor: pointer;
+}
+
+#lind {
+  margin-top: 10vh;
+  margin-bottom: 7vh;
+  font-size: 4vw;
+  text-align: center;
+  color: #000;
+}
+
+#lindo {
+  text-align: center;
+  font-size: 1.5vw;
+  margin-top: 15px;
+}
+
+#lindin {
+  text-align: center;
+}
+
+#dash {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 2000;
+}
+
+#submits {
+  background-color: #ea0000;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px 255px 10px 255px;
+  margin-top: 15px;
+  margin-left: 72px;
+  border-radius: 25px;
+  font-weight: bold;
+
+}
+
+.secondus {
+  margin-top: 30px;
+  background-color: #ea0000;
+  color: #fff;
+  border-radius: 50px;
+}
+
+#questy {
+  color: #fff;
+}
+
+#newbie {
+  margin-top: 10vh;
+  font-size: 2.5vw;
+  text-align: center;
+}
+
+#signage {
+  font-size: 1.2vw;
+  text-align: center;
+  margin: 60px 10px 20px 10px;
+}
+
+#submitss {
+  background-color: #fff;
+  color: #ea0000;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px 70px 10px 70px;
+  margin-top: 50px;
+  margin-left: 70px;
+  border-radius: 25px;
+  font-weight: bold;
+}
+
+.registry {
+  background-color: #c4c3c3;
+}
+
+#welcot {
+  font-size: 35px;
+  font-weight: bolder;
+  margin-top: 20px;
+  color: #fff;
+}
+
+#filla {
+  font-size: 20px;
+  color: #fff;
+}
+
+#biodat {
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: -5px;
+}
+
+.firstform {
+  width: 90%;
+  margin: 5px 0px 5px 0px;
+  border: 2px solid #c4c3c3;
+  border-radius: 10px;
+  height: 30px;
+  padding-left: 10px;
+}
+
+.firstform:hover {
+  border: 3px solid #fff;
+  background-color: #ea0000;
+  height: 30px;
+  cursor: pointer;
+
+}
+
+#passpor {
+  width: 90%;
+  height: 30px;
+  border: 2px solid #c4c3c3;
+  border-radius: 5px;
+  padding: 5px 0px 5px 10px;
+}
+
+#passpor:hover {
+  border: 3px solid #fff;
+  background-color: #ea0000;
+  height: 30px;
+  cursor: pointer;
+  color: #fff;
+}
+
+#selected {
+  width: 90%;
+}
+
+.prefer {
+  color: #fff;
+  font-size: 18px;
+}
+
+.boxes {
+  color: #fff;
+}
+
+#newcastle {
+  margin-left: 120px;
+}
+
+#liverpool {
+  margin-left: 88px;
+}
+
+#hampshire {
+  margin-left: 111px;
+}
+
+#scott {
+  font-size: 16px;
+  width: 90%;
+  margin-top: 20px;
+  color: #fff;
+}
+
+div.rld-single-select .category {
+  width: 90%;
+  margin-top: -20px;
+  border-radius: 10px;
+
+}
+
+#categ {
+  color: #fff;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+#texto {
+  width: 90%;
+  height: 125px;
+  margin-top: -15px;
+  border: 2px solid #c4c3c3;
+}
+
+#texto:hover {
+  border: 5px solid #fff;
+  background-color: #ea0000;
+}
+
+#instant {
+  width: 90%;
+  height: 50px;
+  border: 3px solid #fff;
+  color: #fff;
+  background-color: #ea0000;
+  border-radius: 15px;
+  margin-top: 30px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+#instant:hover {
+  border: 3px solid #ea0000;
+  background-color: #fff;
+  color: #ea0000;
+}
+
+.regimage {
+  box-sizing: border-box;
+  background-image: url(../images/fest/ukimage.jpg);
+  background-size: cover;
+  /* margin-right: 0px; */
+}
+
+.crois {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.headings {
+  box-sizing: border-box;
+  background-color: #fff;
+  background-image: url(../images/fest/admin1.jpg);
+  background-size: cover;
+  max-width: 100%;
+  height: 65vh;
+}
+
+.headingss {
+  box-sizing: border-box;
+  background-color: #fff;
+  background-image: url(../images/fest/imgforblog.png);
+  background-size: cover;
+  max-width: 100%;
+  height: 45vh;
+}
+
+.blogss {
+  margin-top: 12vh;
+}
+
+.blogss h1,h2,a {
+  color: #fff;
+  /* margin-top: 10vh; */
+}
+
+.text-left {
+  color: #000;
+}
+
+.mb-5 {
+  margin-top: 3rem;
+}
+
+#stac {
+  font-size: 50px;
+  font-weight: bold;
+  color: #ea0000;
+  position: relative;
+  top: 7vh;
+}
+
+#stacs {
+  font-size: 25px;
+  position: relative;
+  top: 5vh;
+}
+
+#stacs > a {
+  color: #000;
+}
+
+.about-us {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+#styla{
+  width: 100%;
+}
+
+.info-help {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 0, 0, 0.5)), to(rgba(255, 0, 0, 0.7))), url(../images/fest/missionimage.jpg) no-repeat scroll center center;
+  background: linear-gradient(rgba(255, 0, 0, 0.5), rgba(255, 0, 0, 0.7)), url(../images/fest/missionimage.jpg) no-repeat scroll center center;
+  background-size: cover;
+}
+
+/* .firstcon {
+  margin-left: 80px;
+} */
+
+div.tame .tema {
+  color: #ea0000 !important;
+}
+
+.standout {
+  color: #000;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#agro {
+  color: #ea0000;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bolder;
+  margin-top: 50px;
+}
+
+#entire {
+  margin: 20px 150px 60px 150px;
+  color: #111;
+  text-align: justify;
+}
+
+#assepts {
+  text-align: center;
+  width: 40%;
+  color: #fff;
+  background-color: #ea0000;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 80px;
+  margin-left: 450px;
+}
+
+.form-control:focus {
+  color: #000;
+  background-color: #fff;
+  border-color: #ea0000;
+  outline: 0;
+  box-shadow: 0 0 0 .2rem rgba(234,0,0,.25);
+}
+
+.inner-pages .contact-us {
+  padding: 2rem 0;
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 900px){
+    #usericon {
+        font-size: 30px;
+        position: absolute;
+        top: -9px;
+        right: 30px;
+    }
+    .header-user-name span {
+        position: absolute;
+        width: 38px;
+        height: 38px;
+        border-radius: 50%;
+        overflow: visible;
+        top: -15px;
+        left: -42px;
+    }
+    
+      .header-user-name span:after {
+        position: absolute;
+        content: "";
+        height: 8px;
+        width: 8px;
+        bottom: -5px;
+        right: 0px;
+        background-color: #ea0000;
+        display: block;
+        border: 2px solid #fff;
+        -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+                box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+        border-radius: 50%;
+      }
+
+      img {
+        display: inline-block;
+        height: auto;
+        width: 120px;
+        max-width: 70%;
+        max-width: 80%;
+        position: absolute;
+        top: 5px;
+        /* left: -5px; */
+      }
+
+      #logo {
+        width: 120px;
+        height: auto;
+        transform: translate3d(0, 0, 0);
+        margin-top: 5px;
+        margin-left: 60px;
+        /* width: 35vw; */
+      }
+
+      #hero-area {
+        background-image: url(../images/fest/backgrd3.png);
+        background-size: cover;
+        height: 106vh;
+        width: 100%;
+      }
+
+      .bomile {
+        width: 100vw;
+        margin-left: 25px;
+      }
+
+      #logo1 {
+        position: absolute;
+        top: 3px;
+        left: -5px;
+      }
+
+      .mobro {
+        padding-top: 80px;
+        padding-bottom: 50px;
+        background-image: url(../images/fest/loginimage.png);
+        background-size: cover;
+        height: 100vh;
+      }
+
+      #please {
+        text-align: center;
+      }
+
+      #gener, #genera, #gene {
+        color: #fff;
+        border-radius: 25px;
+        font-size: 18px;
+        max-width: 100%;
+      }
+
+      #gener {
+        position: absolute;
+        top: 10px;
+        left:60px;
+        padding:10px 48px ;
+      }
+
+      #genera {
+        position: absolute;
+        top: 70px;
+        left: 40px;
+        padding: 10px 57px;
+      }
+
+      #gene {
+        position: absolute;
+        top: 130px;
+        left:60px;
+        padding: 10px 62px;
+      }
+
+      #booms {
+        margin-left: 20px;
+        width: 25vh;
+        height: auto;
+        margin-top: -15px;
+
+      }
+
+      #boomo {
+        margin-top: 70px;
+      }
+
+      .newspace {
+        padding-top: 75px;
+        padding-bottom: 50px;
+        margin-bottom: 100px;
+      }
+
+      #mobil {
+        width: 90%;
+        height: auto;
+        margin-left: 25px;
+      }
+
+      .scomp {
+        margin-bottom: 125px;
+      }
+
+      .icona {
+        margin-left: -235px;
+      }
+
+      .scup {
+        padding-left: 30px;
+      }
+      
+      #bingo {
+        margin-top: 80px;
+      }
+
+      #lind {
+        margin-top: 30px;
+        margin-bottom: 7vh;
+        font-size: 30px;
+        text-align: center;
+        color: #000;
+      }
+
+      .account {
+        width: 80vw;
+        font-weight: bold;
+        margin-left: 20px;
+        padding-left: 10px;
+        border: 1px solid #e1e1e1;
+        border-radius: 20px;
+      }
+
+      #submits {
+        background-color: #ea0000;
+        color: #fff;
+        font-size: 20px;
+        text-align: center;
+        padding: 10px 25px 10px 25px;
+        margin-top: 15px;
+        margin-left: 20px;
+        border-radius: 25px;
+        font-weight: bold;
+        width: 80vw;
+      }
+
+      #dash {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 12px;
+      }
+
+      /* .top-footer {
+        margin-top: 174px;
+      } */
+
+      #landlord {
+        height: 700px;
+      }
+
+      .secondus {
+        margin-top: 30px;
+        background-color: #ea0000;
+        color: #fff;
+        border-radius: 0px;
+      }
+
+      #newbie {
+        margin-top: 10vh;
+        font-size: 8.5vw;
+        text-align: center;
+      }
+
+      #lindo {
+        text-align: center;
+        font-size: 4.5vw;
+        margin-top: 15px;
+      }
+
+      #signage {
+        font-size: 5.2vw;
+        text-align: center;
+        margin: 30px 10px 20px 10px;
+      }
+
+      #submitss {
+        background-color: #fff;
+        color: #ea0000;
+        font-size: 20px;
+        text-align: center;
+        padding: 10px 70px 10px 70px;
+        margin-top: 10px;
+        margin-left: 70px;
+        border-radius: 25px;
+        font-weight: bold;
+        margin-bottom: 30px;
+      }
+
+      #welcot {
+        font-size: 20px;
+        text-align: center;
+      }
+
+      #filla {
+        text-align: center;
+        font-size: 16px;
+      }
+
+      .firstform {
+        width: 100%;
+      }
+
+      #biodat {
+        font-size: 16px;
+        font-weight: bold;
+      }
+
+      #passpor {
+        width: 100%;
+      }
+
+      #categ {
+        font-size: 16px;
+        font-weight: bold;
+      }
+
+      div.rld-single-select .category {
+        width: 100%;
+      }
+
+      #texto {
+        width: 100%;
+        height: 100px;
+      }
+
+      #instant {
+        width: 100%;
+        font-size: 20px;
+      }
+
+      .headings {
+        box-sizing: border-box;
+        background-color: #fff;
+        background-image: url(../images/fest/admin1.jpg);
+        background-size: cover;
+        max-width: 100%;
+        height: 20vh;
+      }
+
+      .headingss {
+        box-sizing: border-box;
+        background-color: #fff;
+        background-image: url(../images/fest/imgforblog.png);
+        background-size: cover;
+        max-width: 100%;
+        height: 20vh;
+      }
+
+      #stac {
+        font-size: 30px;
+        font-weight: bolder;
+        color: #fff;
+        position: relative;
+        top: 10vh;
+      }
+
+      #stacs {
+        font-size: 15px;
+        font-weight: bold;
+        position: relative;
+        top: 6vh;
+      }
+
+      #stacs > a {
+        color: #fff;
+      }
+
+      .about-us {
+        padding-top: 50px;
+        padding-bottom: 50px;
+      }
+
+      .falaso {
+        padding-bottom: 20px;
+      }
+
+      img#styla {
+        max-width: 92%;
+      }
+
+      .info-help {
+        margin-top: 240px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+      }
+
+      img.skills {
+        max-width: 100%;
+        height: auto;
+        position: relative;
+      }
+
+      #agro {
+        font-size: 20px;
+        margin-top: 10px;
+      }
+
+      .standout {
+        font-size: 16px;
+      }
+
+      #entire {
+        margin: 10px 40px 0px 40px;
+        color: #111;
+        text-align: justify;
+      }
+
+      #assepts {
+        text-align: center;
+        width: 100%;
+        color: #fff;
+        background-color: #ea0000;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-radius: 10px;
+        font-size: 18px;
+        font-weight: bold;
+        margin: 20px 0px 30px 0px;
+      }
+
+      .inner-pages section.faq {
+        padding: 0 0;
+      }
+
+      .mb-5 {
+        margin-top: 2.5rem;
+      }
+
+      .ui-elements .mb40 {
+        margin-bottom: 10px;
+      }
+
+      .mb-5, .my-5 {
+        margin-bottom: 1.8rem !important;
+      }
+
+      .inner-pages .contact-us {
+        padding: 1rem 0;
+      }
+
+      .h5, h5 {
+        font-size: 1.05rem;
+      }
+
+      .blogss h1 {
+        margin-top: -5vh;
+      }
+
+      .blogss h2 {
+        margin-top: -1vh;
+      }
+      .mb-4, .my-4 {
+        color: #000;
+        margin-left: 20px;
+      }
+
+      .inner-pages .blog-section .news-item-text.details {
+        padding: 290px 10px;
+      }
+
+      .blog .blog-pots img {
+        max-width: 100%;
+      }
+
+      .lery {
+        position: relative;
+        left: 100px;
+        top: 20px;
+      }
+
+      .datty {
+        position: relative;
+        left: 80px;
+        top: 5px;
+      }
+
+      .ipsum {
+        color: #000;
+        text-align: justify;
+      }
+
+      .inner-pages .recent-img img {
+        width: 100%;
+        height: auto;
+        margin-right: 0px;
+        position: relative;
+        max-width: 100%;
+      }
+
+      section.leve-comments {
+        margin-top: 4rem;
+        position: absolute;
+        top: 3720px;
+      }
+
+      footer.blogfoot {
+        position: relative;
+        top: 500px;
+      }
+
+      .form-group {
+        width: 160%;
+      }
+
+      p.pftext {
+        line-height: 25px;
+      }
+
+      footer.stagger {
+        position: relative;
+        top: 194px;
+      }
+
+
+
+
+  
+}
+
